@@ -14,7 +14,7 @@ Automated essay scoring system using fine-tuned FLAN-T5 with LoRA adaptation tha
 | Goal | Implementation |
 |------|---------------|
 | Automated Scoring | Fine-tuned LLM predictions |
-| Feedback Generation | Hybrid model-logic approach |
+| Feedback Generation | logic-Based approach |
 | Performance Analysis | Quantitative metrics & visualizations |
 
 
